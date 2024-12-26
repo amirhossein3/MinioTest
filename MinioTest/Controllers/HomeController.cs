@@ -25,6 +25,11 @@ namespace MinioTest.Controllers
 
         public IActionResult Test()
         {
+            if (true)
+            {
+                
+            }
+            
             return View();
         }
         
